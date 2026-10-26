@@ -1,0 +1,14 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Logs and local config
+*.log
+.streamlit/secrets.toml
+.DS_Store
+
+# Afrobarometer's official documents (linked in README instead of re-hosted)
+docs/
